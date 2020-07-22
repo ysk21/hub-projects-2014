@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/index.jsp HTTP/1.1" 200 1477 http-bio-8080-exec-1 544
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/res/layui/css/layui.css HTTP/1.1" 304 - http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/res/layui/layui.all.js HTTP/1.1" 304 - http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/res/layui/css/modules/laydate/default/laydate.css?v=5.0.9 HTTP/1.1" 304 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/res/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 304 - http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:46 +0800] "GET /login/res/layui/css/modules/code.css HTTP/1.1" 304 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2020:15:27:50 +0800] "POST /login/login.action HTTP/1.1" 200 - http-bio-8080-exec-8 940
